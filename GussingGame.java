@@ -93,7 +93,5 @@ public class GussingGame {
             System.out.print("      ");
             System.out.println(RED_BACKGROUND + "     Thanks for playing the game!      " + RESET);
         }
-        //demo hai bhai
-        //mai Ayushman
     }
 }
